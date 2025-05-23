@@ -44,7 +44,7 @@ console.log(double(4));
 })(); 
 
 
-// Fuyction Composition
+// Function Composition
 
 const add2 = (x) => x + 2;
 const multiply3 = (x) => x*3;

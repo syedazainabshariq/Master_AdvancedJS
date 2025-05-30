@@ -13,12 +13,3 @@ When the user types in the input box, the search is delayed by 500ms after the l
 - Clean separation of HTML, CSS, and JS
 
 ---
-
-## 🗂️ Project Structure
-
-
-debounced-search-box/
-│
-├── index.html # Main HTML file
-├── styles.css # Styling for the input and result list
-└── script.js # JavaScript logic for debounce and search

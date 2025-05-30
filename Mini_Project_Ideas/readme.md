@@ -40,27 +40,3 @@ Each task appears with a delete button (❌) to remove it instantly.
 The filter input lets users type keywords and only shows matching tasks in real-time.
 
 All interactions automatically sync with localStorage so that tasks remain after a page refresh.
-
-💡 Ideas for Improvements
-Add task completion checkboxes with strikethrough effect
-
-Include an edit task feature
-
-Implement dark mode
-
-Add a deadline/reminder feature
-
-Deploy using GitHub Pages
-
-📦 Installation & Usage
-bash
-Copy
-Edit
-# Clone the repository
-git clone https://github.com/yourusername/todo-app.git
-
-# Navigate into the folder
-cd todo-app
-
-# Open in your browser
-Open index.html
